@@ -14,3 +14,11 @@ div,
   border-radius: 6px;
   padding: 24px 35px;
 }
+
+div {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: 2px dashed #9799a7;
+  padding: 92px 92px;
+}
