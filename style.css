@@ -2,3 +2,8 @@ code {
   color: #666;
   font: 14px/24px Courier;
 }
+
+section {
+  background: #eaeaed;
+  height: 145px;
+}
