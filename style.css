@@ -22,3 +22,12 @@ div {
   border: 2px dashed #9799a7;
   padding: 92px 92px;
 }
+
+.offset code {
+  display: block;
+  background: #2db34a;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  color: #fff;
+}
