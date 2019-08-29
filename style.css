@@ -7,3 +7,10 @@ section {
   background: #eaeaed;
   height: 145px;
 }
+
+section,
+div,
+.offset code {
+  border-radius: 6px;
+  padding: 24px 35px;
+}
